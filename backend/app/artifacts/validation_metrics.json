@@ -1,0 +1,99 @@
+{
+  "customer_count": 4338,
+  "optimal_k_by_silhouette": 3,
+  "chosen_k": 4,
+  "silhouette": 0.3778,
+  "davies_bouldin": 0.8659,
+  "n_iterations": 6,
+  "processing_seconds": 3.97,
+  "k_metrics": [
+    {
+      "k": 2,
+      "inertia": 6725.413960489951,
+      "silhouette": 0.4100049974128154,
+      "davies_bouldin": 0.9090313315529776
+    },
+    {
+      "k": 3,
+      "inertia": 4164.324856392791,
+      "silhouette": 0.4170017721010819,
+      "davies_bouldin": 0.828682242853987
+    },
+    {
+      "k": 4,
+      "inertia": 3121.0203381621936,
+      "silhouette": 0.3778398682140718,
+      "davies_bouldin": 0.8659441108119431
+    },
+    {
+      "k": 5,
+      "inertia": 2655.7565464308063,
+      "silhouette": 0.3451939020119759,
+      "davies_bouldin": 0.9386315551250968
+    },
+    {
+      "k": 6,
+      "inertia": 2287.9437861526344,
+      "silhouette": 0.3354881228895376,
+      "davies_bouldin": 0.9614586749634206
+    },
+    {
+      "k": 7,
+      "inertia": 2065.741137262133,
+      "silhouette": 0.328410928694823,
+      "davies_bouldin": 0.9593047957858281
+    },
+    {
+      "k": 8,
+      "inertia": 1872.0977553689265,
+      "silhouette": 0.299030607957491,
+      "davies_bouldin": 1.0128529769746866
+    },
+    {
+      "k": 9,
+      "inertia": 1740.002630587674,
+      "silhouette": 0.2949534937269189,
+      "davies_bouldin": 1.0051011206702658
+    },
+    {
+      "k": 10,
+      "inertia": 1609.627910278853,
+      "silhouette": 0.28071427323269194,
+      "davies_bouldin": 1.0384202207666888
+    }
+  ],
+  "profiles": [
+    {
+      "segment": "Champions",
+      "customer_count": 652,
+      "pct_population": 15.0,
+      "mean_recency": 20.3,
+      "mean_frequency": 14.8,
+      "mean_monetary": 8566.66
+    },
+    {
+      "segment": "Potential Loyalists",
+      "customer_count": 1431,
+      "pct_population": 33.0,
+      "mean_recency": 47.7,
+      "mean_frequency": 4.0,
+      "mean_monetary": 1678.14
+    },
+    {
+      "segment": "At Risk Customers",
+      "customer_count": 930,
+      "pct_population": 21.4,
+      "mean_recency": 260.4,
+      "mean_frequency": 1.4,
+      "mean_monetary": 468.48
+    },
+    {
+      "segment": "New Customers",
+      "customer_count": 1325,
+      "pct_population": 30.5,
+      "mean_recency": 58.7,
+      "mean_frequency": 1.5,
+      "mean_monetary": 368.93
+    }
+  ]
+}
