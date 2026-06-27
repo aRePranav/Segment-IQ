@@ -53,7 +53,7 @@ export function TechStack() {
           </div>
           <div className="flex gap-3">
             <a
-              href="https://github.com/aRePranav/Customer-Segmentation"
+              href="https://github.com/aRePranav/Segment-IQ"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 rounded-lg border border-border px-3.5 py-2 text-xs text-ink-muted transition hover:border-border-strong hover:text-ink"

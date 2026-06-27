@@ -13,7 +13,7 @@ export function Footer() {
         </div>
         <div className="flex items-center gap-4">
           <a
-            href="https://github.com/aRePranav/Customer-Segmentation"
+            href="https://github.com/aRePranav/Segment-IQ"
             target="_blank"
             rel="noreferrer"
             className="text-ink-faint transition hover:text-ink"
